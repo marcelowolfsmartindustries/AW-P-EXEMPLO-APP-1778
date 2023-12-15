@@ -780,7 +780,7 @@ https://vitejs.dev/guide/
 
 ## Aula 4 - CRUD
 
-- Criar os componentes de 
+- Criar os componentes de students (src/components/secure/students)
 
     ### StudentsList.jsx
 
