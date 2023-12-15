@@ -26,6 +26,11 @@ https://vitejs.dev/guide/
     npm create vite@latest app -- --template react
     ```
 
+- Navegar para a pasta do projeto
+    ```bash
+    cd app
+    ```
+
 - Instalar os packages:
     ```bash
     npm i 
