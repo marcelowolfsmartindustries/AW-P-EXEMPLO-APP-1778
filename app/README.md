@@ -1079,8 +1079,8 @@ https://vitejs.dev/guide/
 
 - Criar o serviço de students (src/services/students.service.js)
 
-    ### auth.service.js
-
+    ### students.service.js
+    
     ```jsx
     import axios from "axios";
 
